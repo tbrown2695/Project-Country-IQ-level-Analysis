@@ -10,7 +10,11 @@ In reviewing the averge income to IQ we note the lowest scores are where average
 
 A comparrison of the education expenditure to IQ shows similar results. Low education expenditure is consistent with low IQ scores. higher expenditure in the 1500 to 4000 range produces the highest scores. The highest expenditure produces the same diminishing returns where more resources does not contribute to higher scores.
 
-In this report
+**About Dataset**
+
+Explore the "Worldwide Average IQ Levels and Socioeconomic Factors Dataset" to gain insights into the intelligence quotient (IQ) levels of different countries and their related socioeconomic factors.
+
+**In this report**
 
 Executive summary with the scope and purpose of the study
 A step by step format to detail the collection, processing, and analytical techniques used.
