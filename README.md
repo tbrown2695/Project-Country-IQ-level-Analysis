@@ -1,2 +1,2 @@
-# Project-Python-IQ
-iq
+# Project: Country IQ level Analysis
+
